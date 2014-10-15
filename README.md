@@ -1,3 +1,21 @@
+# MODEL9089914876: testid
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL9089914876.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL9089914876.git@20140916`
+
+
+# Model Notes
 This model is taken from <a href = "http://www.ncbi.nlm.nih.gov/entrez/query.f
 cgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=15548210&query_hl=1&ito
 ol=pubmed_docsum">Ajay SM, Bhalla US. Eur J Neurosci. 2004
@@ -21,4 +39,5 @@ Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
 Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
 and annotated resource for published quantitative kinetic models. BMC Syst
 Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
 
